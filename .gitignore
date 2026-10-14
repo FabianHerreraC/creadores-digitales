@@ -1,0 +1,4 @@
+# originales pesados: la web usa assets/video y assets/img
+*.mov
+fabianherrera_*.png
+.DS_Store
